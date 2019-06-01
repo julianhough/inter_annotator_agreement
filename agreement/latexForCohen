@@ -1,0 +1,12 @@
+'''Data    $$n_{ij}$$ frequency counts of agreeing raters
+    k    The number of raters
+    N    The number of objects to be put in categories
+    m    The number of categories
+    Si    \frac{1}{k(k-1)}\sum_{j=1}^m n_{i,j}(n_{i,j} -1)
+    PA    \frac{1}{N} \sum_{i=1}^N S_i$
+    PE    \sum_{j=1}^m Pj^2
+    K      \frac{P(A) – P(E)} {1-P(E)}
+    According to Siegel and Casteallan: The kappa \kappa coefficient of agreement 
+    is the ratio of the proportion of times that 
+    the raters agree to the maximum proportion of times the raters could agree.'''
+'''
